@@ -1,0 +1,6 @@
+In this task i have reviewed my information in Python read about the its elements like dictionaries and lists and the other elements,
+also i learned what is the virtual environment, why we need it and how to use it, and i use it in the project,
+and i learned how to write a clean code in Python according to its convention, and how to check my code using pylint,
+then i read about pytest and how to use it to make a test cases for my code to ensure that there is no bugs,
+and in the code we practice dealing with data structures like trees and think of all the scenarios that could happen,
+also i learned how to generate a requirement file to download all the packages that needed to run the code successfully.
